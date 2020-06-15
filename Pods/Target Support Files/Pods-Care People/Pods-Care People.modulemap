@@ -1,0 +1,6 @@
+framework module Pods_Care_People {
+  umbrella header "Pods-Care People-umbrella.h"
+
+  export *
+  module * { export * }
+}
