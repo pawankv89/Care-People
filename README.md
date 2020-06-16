@@ -1,6 +1,5 @@
 # Care-People
 
-
 ## Care-People for "2020 Call for Code Global Challenge" Project Submission"
 
 Added Some screens here.
