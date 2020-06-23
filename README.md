@@ -39,8 +39,6 @@ https://github.com/pawankv89/Care-People.git
 
 ## YouTube Video Link: 
 https://youtu.be/hzhH5pCA26Q
-###
-https://github.com/pawankv89/Care-People/tree/master/video/care_people.m4v
 
 ## Screen Shots Link:
 https://github.com/pawankv89/Care-People/tree/master/images
